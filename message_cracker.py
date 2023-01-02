@@ -9,5 +9,3 @@ for i in range(len(message)):
         if j == message[i]:
             break
         
-    
-    
